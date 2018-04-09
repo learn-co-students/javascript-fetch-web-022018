@@ -1,7 +1,7 @@
 const app = "I don't do much.";
 
 
-const token = c6ecba581c152bde9ebf8d23a846c831181af7dc
+const token = 
 fetch('https://api.github.com/nkalkstein/repos', {
   headers: {
     Authorization: `token ${token}`
